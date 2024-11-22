@@ -1,2 +1,2 @@
 # LoreFra
-Secondo compito di informatica
+Secondo compito di informatica propedeutica
